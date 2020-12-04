@@ -1,0 +1,30 @@
+.profile {
+    background-image: url("./bacg-header (2).jpg");
+    background-size: initial;
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+
+.profile-header {
+    font-size: 2em;
+    margin: 10px;
+    color: aliceblue;
+    justify-content: center;
+    display: flex;
+    position: fixed;
+}
+
+
+.profile-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    margin: 60px;
+}
+
